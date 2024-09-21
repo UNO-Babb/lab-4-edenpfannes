@@ -1,7 +1,7 @@
 #TurtleGraphics.py
-#Name:
-#Date:
-#Assignment:
+#Name: Eden Pfannes
+#Date: 9/21/24
+#Assignment: Lab 4
 
 import turtle #needed generally but not in CodeHS
 hideturtle() #hides the default turtle in CodeHS
